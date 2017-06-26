@@ -17,15 +17,6 @@ dnf     === Fedora23+
 * ![Spotify](https://www.spotify.com/br/download/linux/)
 
 
-## Juniper dependencies
-* Java 1.6+ 32bits
-* gcc 32bits
-* libc 32bits
-* perl 5+ 32bits
-* LWP::Protocol::https __/__ _sudo apt-get install liblwp-protocol-https-perl_
-* TermReadKey __/__ _sudo apt-get install libterm-readkey-perl_
-* YAML __/__ _sudo apt-get install yaml-mode_
-
 ## .deb install
 * firefox
 * google-chrome
