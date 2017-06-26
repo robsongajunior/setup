@@ -38,4 +38,5 @@ set hlsearch "Highlight search results
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 	Plugin 'editorconfig/editorconfig-vim'
+	Plugin 'mattn/emmet-vim'
 call vundle#end()
