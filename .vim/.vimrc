@@ -4,7 +4,8 @@
 set encoding=utf8
 set confirm
 set autoread "Set to auto read when a file is changed from the outside
-
+set nobackup
+set nowritebackup
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
