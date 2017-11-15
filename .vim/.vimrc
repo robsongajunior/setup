@@ -4,7 +4,8 @@
 set encoding=utf8
 set confirm
 set autoread "Set to auto read when a file is changed from the outside
-
+set nobackup
+set nowritebackup
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
@@ -38,4 +39,5 @@ set hlsearch "Highlight search results
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 	Plugin 'editorconfig/editorconfig-vim'
+	Plugin 'mattn/emmet-vim'
 call vundle#end()
