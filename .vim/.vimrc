@@ -6,6 +6,7 @@ set confirm
 set autoread "Set to auto read when a file is changed from the outside
 set nobackup
 set nowritebackup
+#set shell=/bin/bash
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
