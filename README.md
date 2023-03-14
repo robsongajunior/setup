@@ -1,5 +1,10 @@
 # MACOS Setup
 
+- **Chip:** Apple M1 Pro
+- **Memory:** 16GB
+- **Display:** 14 inch
+- **Year:** 2021
+
 
 ## SETUP
 ### Code Editor
@@ -19,10 +24,16 @@
     - https://github.com/cakebaker/scss-syntax.vim
     - https://github.com/hail2u/vim-css3-syntax
     - https://github.com/posva/vim-vue
+    
+#### LINK CHECKER
+- [Integrity](https://apps.apple.com/us/app/integrity/id513610341?mt=12)
+
 ### Helpers
 
 - scc
 - htop
+- curl
+- wget
 
 
 ## EASY TO INSTALL
