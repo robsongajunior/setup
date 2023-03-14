@@ -12,8 +12,13 @@
     - Code Formater
     - Emmet
 - [VIM](https://www.vim.org/)
-    - Emmet
-
+    - https://github.com/mattn/emmet-vim
+    - https://github.com/wuelnerdotexe/vim-astro
+    - https://github.com/editorconfig/editorconfig-vim
+    - https://github.com/vim-autoformat/vim-autoformat
+    - https://github.com/cakebaker/scss-syntax.vim
+    - https://github.com/hail2u/vim-css3-syntax
+    - https://github.com/posva/vim-vue
 ### Helpers
 
 - scc

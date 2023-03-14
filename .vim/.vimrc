@@ -40,4 +40,15 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 	Plugin 'editorconfig/editorconfig-vim'
 	Plugin 'mattn/emmet-vim'
+    Plugin 'wuelnerdotexe/vim-astro'
+    Plugin 'vim-autoformat/vim-autoformat'
+    Plugin 'cakebaker/scss-syntax.vim'
+    " Plugin 'posva/vim-vue'
 call vundle#end()
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => https://github.com/wuelnerdotexe/vim-astro - Astro JS
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:astro_typescript = 'enable'
+let g:astro_stylus = 'enable'
