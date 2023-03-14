@@ -19,7 +19,6 @@
     - Astro - Language support for Astro - ext:astro
     - MDX - ext:mdx
 - [VIM](https://www.vim.org/)
-<<<<<<< HEAD
     - https://github.com/mattn/emmet-vim
     - https://github.com/wuelnerdotexe/vim-astro
     - https://github.com/editorconfig/editorconfig-vim
@@ -30,10 +29,8 @@
     
 #### LINK CHECKER
 - [Integrity](https://apps.apple.com/us/app/integrity/id513610341?mt=12)
-=======
 - Font Face
     - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
->>>>>>> 18c22a4 (FEAT: new files)
 
 ### Helpers
 
